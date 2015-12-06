@@ -2,6 +2,7 @@ Mars Textur: http://sos.noaa.gov/ge/astronomy/mars/textures/
 Mars Bumpmap: http://sos.noaa.gov/ge/astronomy/mars/textures/
 Twix Textur: http://sos.noaa.gov/ge/astronomy/venus/original/
 Bounty Textur: http://sos.noaa.gov/ge/astronomy/uranus/original/
+Bounty Clouds: http://forums.autodesk.com/t5/shading-lighting-and-rendering/mapping-the-earth/td-p/4106412
 
 
 
